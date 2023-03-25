@@ -1,5 +1,1 @@
-#jjjjjjjjjjjjj Stacks, Queues - LIFO, FIFO
-
-tdyreds
-awtyjgh
-wghy
+# Stacks, Queues - LIFO, FIFO
