@@ -51,8 +51,14 @@ int main(int ac, char **av)
 				i++;
 			}
 		}
-		i = 0;
-		printf("%s\n", instruction[i]);
+		printf("%s", instruction[0]);
+		free(instruction[0]);
+		if (i == 2)
+		{
+			printf(" %s", instruction[1]);
+			free(instruction[1]);
+		}
+		putchar('\n');
 		free(buffer);
 	}
 /*	if (strcmp(instruction, "push") == 0)
