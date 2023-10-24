@@ -2,5 +2,5 @@
      push          26                
 pop        
        pall
-           nush               54             
+           push               54             
 push 1
