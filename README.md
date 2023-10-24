@@ -1,5 +1,4 @@
-# mo%nty
-----
+# monty
 ## C - Stacks, Queues - LIFO, FIFO
 
 ### General
@@ -91,6 +90,7 @@ _Your should be compiled this way:_
 `$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty`
 Output are printed on stdout
 Any error message would be printed on stderr
+
 ---
 **The monty program**
 
